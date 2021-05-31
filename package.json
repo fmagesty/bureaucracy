@@ -1,6 +1,6 @@
 {
-  "name": "teste",
-  "homepage": "https://fmagesty.github.io/teste",
+  "name": "react-hook-form",
+  "homepage": "https://fmagesty.github.io/react-hook-form",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "url": "git+https://github.com/fmagesty/base-projects.git"
   },
   "keywords": [],
-  "author": "Felipe Melgaco Magesty Silveira",
+  "author": "Felipe Melgaco Magesty",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fmagesty/base-projects/issues"
@@ -51,6 +51,7 @@
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-hook-form": "^7.7.1",
     "yarn": "^1.22.10"
   }
 }

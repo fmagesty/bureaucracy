@@ -1,9 +1,10 @@
 import React from 'react';
+import Homepage from '../../pages/Homepage';
 
 const App = () => {
   return (
     <div className="App">
-      <h1>This is the app component</h1>
+      <Homepage />
     </div>
   );
 };
